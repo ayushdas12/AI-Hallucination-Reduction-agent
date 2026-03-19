@@ -158,8 +158,4 @@ The system prioritizes correctness over guesswork and improves trust in AI-gener
 
 ## Output Examples
 
-### Test Results
 
-![Output 1](output-1.png)
-
-![Output 2](output=2.png)
