@@ -158,4 +158,8 @@ The system prioritizes correctness over guesswork and improves trust in AI-gener
 
 ## Output Examples
 
+![Output 1](output1.jpeg)
+
+![Output 2](output2.jpeg)
+
 
